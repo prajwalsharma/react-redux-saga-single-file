@@ -1,0 +1,32 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "vite.config.ts": true,
+    "tsconfig.node.json": true,
+    "tsconfig.json": true,
+    "tsconfig.app.json": true,
+    "README.md": true,
+    "package-lock.json": true,
+    "index.html": true,
+    ".gitignore": true,
+    ".eslintrc.cjs": true,
+    "src/vite-env.d.ts": true
+  },
+  "hide-files.files": [
+    "vite.config.ts",
+    "tsconfig.node.json",
+    "tsconfig.json",
+    "tsconfig.app.json",
+    "README.md",
+    "package-lock.json",
+    "index.html",
+    ".gitignore",
+    ".eslintrc.cjs",
+    "src/vite-env.d.ts"
+  ]
+}
